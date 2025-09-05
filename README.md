@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./linkedin_banner.png" alt="Swati Jain | Full Stack Developer Banner" />
+</p>
+
+
+
 # 👋 Hi, I'm Swati Jain  
 🚀 Full Stack Software Developer | Java | Python | React.js | Node.js | MongoDB  
 🌱 Passionate about building scalable & user-friendly applications  
