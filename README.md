@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./linkedin_banner.png" alt="Swati Jain | Full Stack Developer Banner" />
+  <img src="./linkedin_banner.svg" alt="Swati Jain | Full Stack Developer Banner" />
 </p>
 
 
