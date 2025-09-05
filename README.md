@@ -46,9 +46,10 @@
 
 ## 📊 GitHub Stats  
 
-![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=swati2003jain&show_icons=true&theme=tokyonight)  
+![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati-jain123&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swati2003jain&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-jain123&layout=compact&theme=tokyonight)  
+
 
 ---
 
