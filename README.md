@@ -36,17 +36,18 @@
 
 ## 🚀 Featured Projects  
 
-- [📊 Live Polling System](https://github.com/swati2003jain/live-polling-system)  
+- [📊 Live Polling System](https://github.com/Swati-jain123/live-polling-system)  
   Real-time polling app using **React, Node.js, Socket.IO** with dynamic charts.  
 
-- [💬 WhatsApp Web Clone](https://github.com/swati2003jain/whatsapp_web_clone)  
+- [🤖 Discord Bot](https://github.com/Swati-jain123/discord_bot)  
+  Interactive Discord bot built using **JavaScript**.  
+
+- [💬 WhatsApp Web Clone](https://github.com/Swati-jain123/whatsapp_web_clone)  
   Chat application clone built with **JavaScript & Firebase**.  
 
-- [🛒 Shopy - Online Shopping System](https://github.com/swati2003jain/Shopy)  
-  Full-fledged e-commerce system with **Java, MySQL, and React**.  
+- [🛒 Connect World ](https://github.com/Swati-jain123/Content-management-System-)  
+  Full-fledged content management system with **React, Node, MongoDb and Express**.  
 
-- [🤖 Discord Bot](https://github.com/swati2003jain/discord_bot)  
-  Interactive Discord bot built using **JavaScript**.  
 
 ---
 
